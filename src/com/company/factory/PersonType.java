@@ -1,4 +1,4 @@
-package com.company.Factory;
+package com.company.factory;
 
 import java.util.function.Supplier;
 

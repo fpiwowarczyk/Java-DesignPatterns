@@ -1,4 +1,4 @@
-package com.company.Factory;
+package com.company.factory;
 
 public class Man implements Person{
     private final String description = "Human male";

@@ -1,4 +1,4 @@
-package com.company.Factory;
+package com.company.factory;
 
 public interface Person {
 

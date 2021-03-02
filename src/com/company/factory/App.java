@@ -1,4 +1,4 @@
-package com.company.Factory;
+package com.company.factory;
 
 import org.junit.platform.commons.logging.Logger;
 import org.junit.platform.commons.logging.LoggerFactory;
@@ -13,6 +13,5 @@ public class App {
 
         LOGGER.info(person1::getDescription);
         LOGGER.info(person2::getDescription);
-
     }
 }
