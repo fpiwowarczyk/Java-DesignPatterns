@@ -20,7 +20,7 @@ public class Demo {
                 break;
             case "windows":
                 factory = new WindowsFactory();
-                app = new App(factory);
+                app = new App(factory)asdafsda
                 break;
             default:
                 throw new NoSuchElementException("No such system");
